@@ -1,3 +1,5 @@
+Superseded by RAG Studio (https://github.com/nkmohit/rag-studio), which extends this backend with multi-query retrieval, grounding gates and a UI.
+
 # Minimal RAG Backend (FastAPI, Chroma, Gemini)
 
 This repository contains a minimal, production-oriented Retrieval-Augmented Generation (RAG) backend.
@@ -68,8 +70,8 @@ Each stage is implemented as a small, focused module with a single responsibilit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nkmohit/rag-app.git
-cd rag-app
+git clone https://github.com/nkmohit/minimal-rag-backend.git
+cd minimal-rag-backend
 ```
 
 ### 2. Create and activate a virtual environment
